@@ -1,4 +1,4 @@
-import fb from './assets/facebook-logo.svg';
+import fb from '../assets/facebook-logo.svg';
 
 function Footer() {
     return <>
