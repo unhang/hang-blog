@@ -1,0 +1,27 @@
+@import "tailwindcss";
+/* @import "tailwindcss/base"; */
+/* @import "tailwindcss/component"; */
+
+* {
+  box-sizing: border-box;
+  color: rgb(43, 43, 43);
+  font-family: "Noto Serif JP", serif;
+}
+
+body {
+  /* margin: initial; */
+  /* padding: initial; */
+  background-color: #f6f6c9;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* margin: initial;
+  padding: initial; */
+  font-weight: 100;
+}
